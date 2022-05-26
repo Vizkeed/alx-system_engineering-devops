@@ -4,3 +4,4 @@
 2. print all groups current user is part of
 3. change owner of file to betty
 4. an empty file hello was created 
+5. added execute permission to the owner of the file
