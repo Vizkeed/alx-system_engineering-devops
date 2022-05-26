@@ -9,3 +9,4 @@
 7.  added execute permission to the owner and to the group owner and other users
 8. permissions: owner=NONE, group=NONE, other users=ALL
 9. permissions: -rwxr-x-wx
+10. sets the mode of the file hello the same as olleh’s mode.
