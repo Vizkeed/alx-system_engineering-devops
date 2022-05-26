@@ -10,3 +10,4 @@
 8. permissions: owner=NONE, group=NONE, other users=ALL
 9. permissions: -rwxr-x-wx
 10. sets the mode of the file hello the same as olleh’s mode.
+11. set permission to all subdirectories of the current directory for the owner, the group owner and all other users
