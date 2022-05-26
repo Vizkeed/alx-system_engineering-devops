@@ -1,8 +1,2 @@
-s
-u
-i am
-b
-e
-t
-t
-y
+#!/bin/bash
+su betty
